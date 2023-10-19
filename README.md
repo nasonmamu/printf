@@ -1,1 +1,1 @@
-This is a group project done by me and my partner
+0x11.c printf pair project of team of two nason and my collegue
